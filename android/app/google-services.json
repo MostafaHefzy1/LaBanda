@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973665582903",
+    "project_id": "labanda-9e796",
+    "storage_bucket": "labanda-9e796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973665582903:android:b123f3e28c2ab6f36764b2",
+        "android_client_info": {
+          "package_name": "com.example.labanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973665582903-bf6q03psq5koqhqh0o2d1p4ok8bm7q4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labanda",
+            "certificate_hash": "c5ffe74653361d066c03e3e7ea18c988266729c7"
+          }
+        },
+        {
+          "client_id": "973665582903-e42ldfvumgcrn35afvjvdible071gvhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCGjiJjM_7E7orUIIBgBJPNOvFnWULwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973665582903-e42ldfvumgcrn35afvjvdible071gvhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
